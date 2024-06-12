@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AluraGeek</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200;400;700&family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="./img/logoAluraGeek.svg" alt="Logo AluraGeek" width="100%">
+    </header>
+    <main>
+        <div class="formulario-container">
+            <h2>ADICIONAR PRODUTO:</h2>
+            <form id="produto-formulario">
+                
+                <input type="text" id="nome" name="nome" placeholder="Nome" maxlength="18" required>
+                <span id="nome-erro" class="erro-mensagem"></span>
+                
+                <input type="text" id="preco" name="preco" placeholder="Valor" required>
+                <span id="preco-erro" class="erro-mensagem"></span>
+                
+                <input type="url" id="imagem" name="imagem" placeholder="Imagem (URL)" required>
+                <span id="imagem-erro" class="erro-mensagem"></span>
+
+                <div class="botoes">
+                    <button type="submit">Guardar</button>
+                    <button type="reset">Limpar</button>
+                </div>
+            </form>
+        </div>
+        <div class="lista-produtos-container">
+            <h2>MEUS PRODUTOS:</h2>
+            <div class="lista-produtos" id="lista-produtos"></div>
+        </div>
+    </main>
+    <footer>
+        <img src="./img/logoAluraGeek.svg" alt="Logo AluraGeek"  width="100%">
+        <p class="autor">desenvolvido por DenerPatrick</p>
+        <p class="direitos">Alura Latam - <span class="ano-atual"></span></p>
+    </footer>
+    <script type="module" src="./script/main.js"></script>
+</body>
+</html>
