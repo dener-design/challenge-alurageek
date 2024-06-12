@@ -10,10 +10,10 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 <b>Saiba mais em</b> https://www.oracle.com/br/education/oracle-next-education/
 
 <hr>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
+* json-server
 
 ## Tecnologias utilizadas no projeto
 * HTML

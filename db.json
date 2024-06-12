@@ -1,3 +1,58 @@
 {
-  "produtos": []
+  "produtos": [
+    {
+      "id": "5a06",
+      "nome": "Stormtrooper",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoStormtrooper.jpg"
+    },
+    {
+      "id": "83a0",
+      "nome": "Game Boy Classic",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoGameBoyClassic.jpg"
+    },
+    {
+      "id": "e5a1",
+      "nome": "Stormtrooper",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoStormtrooper.jpg"
+    },
+    {
+      "id": "2874",
+      "nome": "Game Boy Classic",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoGameBoyClassic.jpg"
+    },
+    {
+      "id": "8a96",
+      "nome": "Stormtrooper",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoStormtrooper.jpg"
+    },
+    {
+      "id": "8754",
+      "nome": "Game Boy Classic",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoGameBoyClassic.jpg"
+    },
+    {
+      "id": "3858",
+      "nome": "Stormtrooper",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoStormtrooper.jpg"
+    },
+    {
+      "id": "6d67",
+      "nome": "Game Boy Classic",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoGameBoyClassic.jpg"
+    },
+    {
+      "id": "d784",
+      "nome": "Stormtrooper",
+      "preco": "60",
+      "imagem": "https://challenge-alurageek-lac.vercel.app/img/produtoStormtrooper.jpg"
+    }
+  ]
 }
